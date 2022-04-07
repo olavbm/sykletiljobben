@@ -7,6 +7,8 @@ authors = ["Olav Markussen <olav.markussen@safebase.no>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 selenium = "^4.1.3"
+arrow = "^1.2.2"
+ipython = "^8.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
